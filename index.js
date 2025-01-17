@@ -7,3 +7,4 @@
 // Lanciamolo e proviamo a cambiare il nostro codice in modo che stampi nel terminale “Hello Boolean”. 
 // Dovremmo vedere il terminale senza fermare e rilanciare il server.
 
+console.log("Hello Boolean")
